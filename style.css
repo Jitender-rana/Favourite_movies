@@ -25,6 +25,8 @@ h1{
 }
 a{
     float: left;
+    height: 301px;
+    width: 201px;
 }
 
 img{
